@@ -6,7 +6,7 @@
 Think of an algorithm that can make the factory operate the most efficiently. Consider the floating material price each day, the storage cost, the startup cost, the initial storage, the productivity capacity constraint, the number of machines, the conversion rates between stations, and so on.
 
 ### Run Locally
-* Run this Command: git clone <https://github.com/b05702057/BomberMan-Game.git>
+* Run this Command: git clone <https://github.com/b05702057/Operation-Management-Algorithm-Design.git>
 * Run this Command: g++ Operation_Management_Project.cpp -o omp
 * Run this Command: ./omp
 * Enter the foal and the data of your factory
